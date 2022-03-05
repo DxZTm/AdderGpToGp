@@ -27,6 +27,12 @@ This Project iS Used By The Following Library :
 
 Line **12** , Api ID , Api Hash
 
-#### How To Install The Prerequisites ?
+#### How To Install ?
 
 `pip install telethon` OR `pip3 install telethon` On Terminal !
+
+`git clone https://github.com/DxZTm/AdderGpToGp`
+
+`cd AdderGpToGp`
+
+`python DxZTm.py`
